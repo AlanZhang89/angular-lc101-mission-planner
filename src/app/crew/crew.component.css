@@ -20,3 +20,16 @@ h3 {
 }
 
 /* Add a 'selected' class here to style selected astronaut names a different color. */
+.selected{
+    color: lightseagreen;
+}
+figcaption {
+    font-size: larger;
+    text-align: center;
+    color: rgb(67, 153, 233);
+  }
+  
+  
+  
+  
+  
